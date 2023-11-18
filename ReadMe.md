@@ -17,7 +17,7 @@ Multilingual proficiency: PaLM 2 is fluent in over 100 languages.
 pip install -q google-generativeai
 ```
 ## Usage
-add a .env file with the following variables
+add a .env file with the following variable
 ```bash
 API_Key=your_api_key
 ```
