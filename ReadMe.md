@@ -1,6 +1,6 @@
 # Introduction
 
-In this notebook am testing [PaLM2](https://developers.generativeai.google/guide)
+In this notebook am testing [PaLM2](https://ai.google/discover/palm2/)
 ## PaLM2
 PaLM 2 is a next-generation language model developed by Google AI. It is a large language model (LLM) with 1.1 trillion parameters, trained on a massive dataset of text and code. This makes it one of the most powerful language models in the world.
 
